@@ -1,4 +1,6 @@
+export const runtime = 'edge';
 import React from "react";
+
 import type { Metadata } from "next";
 import { ThemeProvider } from "./components/theme-provider";
 import "./globals.css";
