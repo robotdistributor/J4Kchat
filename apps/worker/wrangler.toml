@@ -65,7 +65,7 @@ class_name = "SupergroupRouterDurableObject"
 [[d1_databases]]
 binding = "DB"
 database_name = "fluxychat"
-database_id = "2393de6c-4c38-4e1e-afbb-2f26e64e6904"
+database_id = "7e7e93cc-32bd-468f-b31a-f82de2a9eac5"
 migrations_dir = "db"
 
 # KV namespace used for distributed rate limiting.
