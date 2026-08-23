@@ -77,6 +77,8 @@
   },
   "devDependencies": {
     "baseline-browser-mapping": "^2.10.29",
-    "turbo": "^2.9.14"
-  }
+    "@opennextjs/cloudflare": 
+    "latest",
+  "wrangler": "latest"
+}
 }
