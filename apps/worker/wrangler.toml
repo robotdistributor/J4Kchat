@@ -75,7 +75,7 @@ migrations_dir = "db"
 # Then paste the returned id below.
 [[kv_namespaces]]
 binding = "RATE_LIMIT_KV"
-id = "02d35b13ac6640c58fcd66166ea0214c"   # npx wrangler kv namespace create RATE_LIMIT_KV → paste id here
+id = "c24ec2dfd9ba4a06956529f3e8bb61d4"   # npx wrangler kv namespace create RATE_LIMIT_KV → paste id here
 preview_id = "536bdaedd5ce4e28b898e4bfb65ef3a2"   # npx wrangler kv namespace create RATE_LIMIT_KV --preview → paste id here
 
 # R2 bucket for file attachments and media storage.
