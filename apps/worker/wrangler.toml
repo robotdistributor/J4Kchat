@@ -119,9 +119,9 @@ binding = "BROWSER"
 # class_name = "FluxyScheduledWorkflow"
 # schedules = ["0 3 * * *", "0 8 * * *", "*/15 * * * *", "*/5 * * * *"]
 
-# [[routes]]
-# pattern = "api.fluxychat.com"
-# custom_domain = true
+[[routes]]
+pattern = "chat.justice4kids.ca"
+custom_domain = true
 
 
 
