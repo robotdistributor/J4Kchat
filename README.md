@@ -1,6 +1,6 @@
 # FluxyChat
 
-Realtime chat on Cloudflare Workers: one Worker, WebSocket rooms, a TypeScript SDK, and an operator console for projects, agents, and compliance.
+Realtime chat on Cloudflare Workers: one Worker, WebSocket rooms, a TypeScript SDK, and an operator console for projects, agents, and compliance.  
 
 > **Open beta.** [Try hosted](https://fluxychat.com) · [Guides](https://fluxychat.com/guides) · [Compare](https://fluxychat.com/compare) · [Public docs](https://docs.fluxychat.com) · [npm SDK](https://www.npmjs.com/package/@fluxy-chat/sdk) · [![Socket Badge](https://badge.socket.dev/npm/package/@fluxy-chat/sdk/0.5.0)](https://badge.socket.dev/npm/package/@fluxy-chat/sdk/0.5.0) · **Support:** fluxychat@outlook.com
 
