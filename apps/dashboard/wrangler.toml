@@ -7,3 +7,6 @@ assets = { directory = ".open-next/assets", binding = "ASSETS" }
 [observability.logs]
 enabled = false
 invocation_logs = true
+
+[vars]
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY = "pk_live_Y2xlcmsuanVzdGljZTRraWRzLmNhJA"
