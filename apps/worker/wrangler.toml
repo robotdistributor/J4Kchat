@@ -1,4 +1,4 @@
-name = "fluxychat-worker"
+name = "j4kchat-worker"
 main = "src/worker.js"
 # Browser Run quickAction() requires 2026-03-24+
 compatibility_date = "2026-03-24"
