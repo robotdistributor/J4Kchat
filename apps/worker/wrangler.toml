@@ -7,7 +7,7 @@ compatibility_date = "2026-03-24"
 # When true, cron jobs run via FluxyScheduledWorkflow (P12-L); Worker `scheduled` is a no-op.
 WORKFLOW_SCHEDULES_ENABLED = "false"
 # Browser Run quickAction() incurs cost — set "true" only when you need SPA OG previews.
-BROWSER_ENABLED = "false"[vars]
+BROWSER_ENABLED = "false"
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY = "pk_live_Y2xlcmsuanVzdGljZTRraWRzLmNhJA"
 NEXT_PUBLIC_FLUXYCHAT_WORKER_URL = "https://j4kchat-dashboard.robotdistributes.workers.dev/"
 
